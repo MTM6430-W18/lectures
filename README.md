@@ -1,5 +1,5 @@
 # Web Applications (MTM6430-W18)
-**Professor Robert L. McKenney**  
+**Melissa Valencia, Student**  
 Interactive Media Design (IMD) diploma program  
 School of Media and Design  
 Algonquin College
@@ -14,7 +14,7 @@ Algonquin College
 
 **Week 2 -- Begin building a Vue Todo App**
  - directives
- - list rendering 
+ - list rendering
  - form inputs
  - v-model modifiers (.trim)
  - dynamic class binding
@@ -34,10 +34,14 @@ Algonquin College
  - create project with webpack and vue-router
  - add navigation
  - add routes for filtered list views
- 
+
 **Week 6 -- Break Week**
 
 **Week 7 -- LocalStorage and List Filtering**
  - enhance Vue Router implementation
  - add localStorage
  - add priority filter
+
+ **Week 13 -- Install Bootstrap**
+  - install mdbootstrap in Terminal
+  - stylize the app
